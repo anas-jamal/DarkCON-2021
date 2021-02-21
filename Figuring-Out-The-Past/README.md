@@ -1,4 +1,5 @@
 # Figuring Out The Past
+![forense](https://img.shields.io/badge/analitycs-forensic-green) ![play](https://img.shields.io/badge/Play-CTF-red)
 
 ```desc
 After an accident Mr.wolf lost his memory and he is seeking help from you. He is not able to remember his past secret, can you help him figuring out the past mystery ? 
