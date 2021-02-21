@@ -3,7 +3,7 @@
 ```desc
 After an accident Mr.wolf lost his memory and he is seeking help from you. He is not able to remember his past secret, can you help him figuring out the past mystery ? 
 ```
-[Challenge File](https://darkc0n.blob.core.windows.net/challenges/memdump.mem.tar.gz)
+[Challenge File](https://mega.nz/file/j0kmwKRT#OfTPR6FfCR6uTlmUPTBaZhkcXoCFqB18RAoGwG5OLlQ)
 
 ## Solution
 
