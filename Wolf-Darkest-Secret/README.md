@@ -1,4 +1,5 @@
 # Mr.Wolf Darkest Secret
+![forense](https://img.shields.io/badge/analitycs-forensic-green) ![play](https://img.shields.io/badge/Play-CTF-red)
 
 ```desc
 Mr.Wolf is hiding something from us .Can you find Mr.Wolf's Deepest Secret and he was trying to access some other system and we need to gather more information about Mr.Wolf activities
