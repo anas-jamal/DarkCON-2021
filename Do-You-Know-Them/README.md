@@ -1,4 +1,5 @@
 # Do you know them ?
+![forensic](https://img.shields.io/badge/analitycs-forensic-green) ![play](https://img.shields.io/badge/Play-CTF-red)
 
 ## Description
 
