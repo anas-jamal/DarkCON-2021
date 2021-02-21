@@ -1,4 +1,5 @@
 # Scattered Pieces
+![forense](https://img.shields.io/badge/analitycs-forensic-green) ![play](https://img.shields.io/badge/Play-CTF-red)
 
 ```desc
 Pieces are scattered can you collect them and get the flag?
